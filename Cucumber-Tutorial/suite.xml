@@ -1,0 +1,10 @@
+<suite name="sample">
+	<test name="sample test">
+		<classes>
+			<class name="com.vikas.fw.TestRunnerwithTestNG">
+			
+			</class>
+		</classes>
+	</test>
+
+</suite>
