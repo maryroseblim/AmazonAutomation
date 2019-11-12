@@ -8,4 +8,4 @@ Feature: Amazon Search Item
     And Refine the results to show only items under the Cell Phones department
     And Refine results to show only items ranging from "400" to "500"
     Then Take the first 5 results then sort their prices by highest to lowest in Java, without using Sort by Price feature on Amazon's website.
-#    And Print all the product names after sorting.
+    And Print all the product names after sorting.
