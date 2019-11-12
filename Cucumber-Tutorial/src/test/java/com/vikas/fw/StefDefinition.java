@@ -98,11 +98,11 @@ public class StefDefinition {
 			
 	}
 
-/*	@Then("^Print all the product names after sorting\\.$")
+	@Then("^Print all the product names after sorting\\.$")
 	public void print_all_the_product_names_after_sorting() throws Throwable {
 		System.out.println("print item");
 	}
-*/
+
 //******************************************************************************************************************************************************
 	
 	//regular cucumber expresion start with ^ (caret) and end with $ (dollar sign)
